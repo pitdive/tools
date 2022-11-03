@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # GET and PUT via curl for s3 buckets
-#
+# tested on Cloudian cluster
 # updated on Nov 2022 - Peter Long
 #
 
