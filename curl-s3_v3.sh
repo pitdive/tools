@@ -6,7 +6,7 @@
 #
 
 OPENSSL=/usr/bin/openssl
-CURL="/usr/bin/curl -v"
+CURL="/usr/bin/curl"
 ACCESS_KEY="118ba69ba40785084a18" 
 SECRET_KEY="eZuJdqdmccvFeKwXDkpW+eTm1oREGzOKgdtV6Cep"
 
